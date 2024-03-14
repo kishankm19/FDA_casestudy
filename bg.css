@@ -1,0 +1,19 @@
+body {
+    background-image: url("bc.jpg"); /* Replace with your actual image filename if different */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* Add these styles to lighten the background and improve text contrast */
+    color: #333; /* Adjust text color for better contrast on the background */
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white overlay */
+}
+/* ... your existing styles ... */
+
+section {
+  margin-bottom: 30px;
+  border: 1px solid #ddd; 
+  padding: 20px;
+  border-radius: 5px; 
+  background-color: black; /* Black background */
+  color: white;          /* White text */
+}
